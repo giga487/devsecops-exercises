@@ -1,3 +1,5 @@
+#SUKA
+
 # devsecops-exercises
 
 Questa repository nasce per raccogliere gli esercizi e per fornire le istruzioni operative utili ad arrivare preparati al corso *Integrate Vulnerability Management in DevSecOps cycle*
