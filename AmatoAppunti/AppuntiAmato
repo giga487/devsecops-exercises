@@ -1,0 +1,33 @@
+
+
+Cosa è una vulnerabilità:
+
+
+Chi sono loro:
+seerbox è un'applicazione firewall, iso 27001, secure coding e secure development.
+
+SICUREZZA corso Mattina 28 Novembre:
+
+CVE è un bollettino di sicurezza, espone le vulnerabilità su librerie, oggetti hw, oggetti sw. 
+Descrive cosa l'attaccante è in grado di fare e il contensto con cui si può sfruttare.
+CVE-YYYY-NNNN Dove N è un identificativo univoco crescente
+
+la parte del CVSS common vulnerabilites score system, è un sistema di valutazione della vunlnerabilità.
+Quanto è grave la vulnerabilità da 1 a 10.
+
+CWE è la mancanza e il difetto che danno origine alla vulnerabilità, Common weekness enumeration
+
+Il CSIRT Services Framework
+Offre supporto all'azienda
+
+A livello di regolamentazione, in europa verrà esclusa la possibilità di vendere un software non sicuro.
+Verrà inserito un bollino di sicurezza del prodotto, non è attualmente mandatoria, ma ha un vantaggio competivo rispetto a chi non la ho.
+
+Bisogna costruire un processo.
+
+
+mean Time To Weaponize TtW
+mean Time to Remediation TtR
+
+TtR vs TtW è una finestra di opportunità
+
