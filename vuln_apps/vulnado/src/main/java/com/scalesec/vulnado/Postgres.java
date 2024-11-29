@@ -64,7 +64,7 @@ public class Postgres {
         try {
 
             // Static getInstance method is called with hashing MD5
-            MessageDigest md = MessageDigest.getInstance("MD5");
+            MessageDigest md = MessageDigest.getInstance("SHA-256");
 
             // digest() method is called to calculate message digest
             //  of an input digest() return array of byte
@@ -75,7 +75,7 @@ public class Postgres {
 
             // Convert message digest into hex value
             String hashtext = no.toString(16);
-            while (hashtext.length() < 32) {
+            while (hashtext.length() < 64) {
                 hashtext = "0" + hashtext;
             }
             return hashtext;
