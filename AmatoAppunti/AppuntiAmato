@@ -34,3 +34,6 @@ TtR vs TtW è una finestra di opportunità
 CycloneDX, possiamo fare il signing, scan del docker e integrarlo con dependency track
 
 <b>Dependency Track, da capire su Jenkins come si integra</b>
+
+
+Cypress per i test di integrazione
